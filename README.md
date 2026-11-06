@@ -1,1 +1,2 @@
 - [intro_debugging](./intro_debugging): tracing and fixing logic bugs
+- [more_functions_nested_loops](./more_functions_nested_loops): more functions and nested loops
