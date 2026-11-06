@@ -1,1 +1,1 @@
-- [functions_nested_loops](./functions_nested_loops): functions, header files, and nested loops
+- [intro_debugging](./intro_debugging): tracing and fixing logic bugs
