@@ -44,4 +44,6 @@ void print_buffer(char *b, int size);
 
 void set_string(char **s, char *to);
 
+void set_string(char **s, char *to);
+
 #endif /* MAIN_H */
